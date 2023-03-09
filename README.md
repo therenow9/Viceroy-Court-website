@@ -1,2 +1,3 @@
 # Viceroy-Court-website
-Simple Website for my parents rental listing, very bare bones
+
+Simple Website for a rental listing
